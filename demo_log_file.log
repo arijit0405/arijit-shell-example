@@ -1,0 +1,10 @@
+
+2025-04-23 12:00:01 INFO  [auth] User 'arijit' logged in from IP 192.168.1.10
+2025-04-23 12:01:14 WARN  [storage] Disk space at 85%
+2025-04-23 12:02:45 ERROR [db] Connection to MySQL failed: timeout
+2025-04-23 12:03:00 INFO  [scheduler] Backup job started
+2025-04-23 12:03:30 INFO  [scheduler] Backup job completed
+2025-04-23 12:05:22 INFO  [auth] User 'admin' logged out
+2025-04-23 12:06:50 ERROR [network] Unable to reach 8.8.8.8
+2025-04-23 12:07:31 WARN  [auth] Failed login attempt for user 'guest'
+2025-04-23 12:08:10 INFO  [service] Restarted nginx successfully
